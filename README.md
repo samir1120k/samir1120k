@@ -11,6 +11,13 @@ I am Satyam Patel,  I am very keen to learn new technologies and use them to eit
 ⚡ Fun fact: I love to connect with people and learn about their journey, it helps me to open up my mind for different perspectives on various domains.   
 
 
+<h2>Summary</h2>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samir1120k&theme=nightowl)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samir1120k&theme=nightowl)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samir1120k&theme=nightowl)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=samir1120k&theme=nightowl)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samir1120k&theme=nightowl&utcOffset=8)
 <h2>🛠Tech Stack</h2>
 
 Languages  
