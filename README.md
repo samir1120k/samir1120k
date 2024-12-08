@@ -32,6 +32,12 @@ I am Satyam Patel,  I am very keen to learn new technologies and use them to eit
 <a href="https://www.hackerrank.com/samir1120k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="samir1120k" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/samir1120k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="samir1120k" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/samir1uzfv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="samir1uzfv" height="30" width="40" /></a>
+ <a href="https://www.kaggle.com/syraverma" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle Profile" height="30" width="40" />
+</a>
+<a href="https://huggingface.co/samir1120" target="_blank">
+    <img align="center" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="hugging face" height="30" width="40" />
+  </a>
 </p>
 
 
