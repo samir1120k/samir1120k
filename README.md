@@ -78,7 +78,7 @@ I am Satyam Patel. I am very keen to learn new technologies and use them to eith
   <a href="https://www.leetcode.com/samir1120k" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="samir1120k" height="30" width="40" />
   </a>
-  <a href=" https://atcoder.jp/users/samir1120k" target="blank">
+  <a href="https://atcoder.jp/users/samir1120k" target="blank">
   <img align="center" src="https://img.atcoder.jp/assets/top/img/logo_bk.svg" alt="AtCoder" width="30" height="40"/>
   </a>
   <a href="https://www.geeksforgeeks.org/user/samir1uzfv" target="blank">
