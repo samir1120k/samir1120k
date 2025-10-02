@@ -50,6 +50,7 @@ I am Satyam Patel. I am very keen to learn new technologies and use them to eith
 <h3 align="left">AI/ML Tools & Libraries:</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/>
  
@@ -77,10 +78,20 @@ I am Satyam Patel. I am very keen to learn new technologies and use them to eith
   <a href="https://www.leetcode.com/samir1120k" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="samir1120k" height="30" width="40" />
   </a>
+  <a href=" https://atcoder.jp/users/samir1120k" target="blank">
+  <img align="center" src="https://img.atcoder.jp/assets/top/img/logo_bk.svg" alt="AtCoder" width="30" height="40"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/samir1uzfv" target="blank">
+  <img align="center" src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" alt="GeeksforGeeks" width="40" height="40"/>
+  </a>
   <a href="https://codeforces.com/profile/samir1120k" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="samir1120k" height="30" width="40" />
   </a>
- <a href="https://www.linkedin.com/in/satyam-patel-8a4254279/" target="blank">
+   <a href="https://samir1120k.github.io/Profile" target="_blank" rel="noopener noreferrer">
+<img align="center" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f98b.svg" alt="Portfolio" width="30" height="40"/>
+</a>
+
+ <a href="https://www.linkedin.com/in/samir1120k/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
 
